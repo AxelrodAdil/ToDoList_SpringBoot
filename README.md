@@ -1,5 +1,5 @@
 # ToDoList_SpringBoot
-
+**Created a to-do list with Spring Boot, REST, MYSQL database. Created an API for adding, changing, deleting. A task has a title, date, priority, and description.**
 
 ## Images
 ```
